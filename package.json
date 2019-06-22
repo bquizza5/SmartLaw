@@ -1,0 +1,19 @@
+{
+  "name": "smartlaw",
+  "version": "1.0.0",
+  "description": "SmartLaw 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('hola')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bquizza5/SmartLaw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bquizza5/SmartLaw/issues"
+  },
+  "homepage": "https://github.com/bquizza5/SmartLaw#readme"
+}
